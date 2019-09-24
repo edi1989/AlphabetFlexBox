@@ -141,11 +141,11 @@
     
     @media only screen and (max-width:768px) {
         ul li {
-            width: 360px;
+            width: 50%;
         }
         @media only screen and (max-width:600px) {
             ul li {
-                width: 600px;
+                width: 100%;
             }
         }
     }
